@@ -41,7 +41,7 @@ http://masaasoft.com/words
 
 ## Acknowledgement
 
-I want to acknowledge Matthew Hudson @matthud@gmail.com as the original owner of the development library. ie. codecov.
+I want to acknowledge Matthew Hudson @matthud@gmail.com as the original owner of the development library- codecov.
 
 ## License
 
