@@ -1,3 +1,4 @@
+import { describe, beforeEach, test, expect } from '@jest/globals'
 import { WordGenerator } from '.'
 
 describe('WordGenerator', () => {
